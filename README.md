@@ -1,217 +1,152 @@
 <div align="center">
 
-<!-- ██████████████████████ EPIC HEADER ██████████████████████ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0d1b2a,100:1b2838&height=280&section=header&text=NETHRAPAL%20M%20JALI&fontSize=65&fontColor=00D9FF&fontAlignY=45&desc=%E2%9A%A1%20Full%20Stack%20Developer%20%E2%80%A2%20Engineering%20Student%20%E2%80%A2%20AI%20Enthusiast&descSize=20&descColor=E6EDF3&descAlignY=65&animation=fadeIn" />
+<!-- █▓▒░ CYBERDECK HEADER ░▒▓█ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=300&section=header&text=NETHRAPAL%20M%20JALI&fontSize=80&fontColor=00FF41&fontAlignY=40&desc=>>>%20CORE%20SYSTEM%20ARCHITECT%20|%20SECURITY%20ENTHUSIAST%20|%20FULL-STACK%20BREACHER&descSize=22&descColor=00FF41&descAlignY=65&animation=glitch" />
 
-<!-- HACKER TYPING ANIMATION -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=24&duration=2200&pause=700&color=00D9FF&center=true&vCenter=true&width=850&lines=⚡+Building+Modern+Web+Solutions;🏗️+Aspiring+Software+Engineer;🚀+Intern+%40+Stack+Education;🤖+Full+Stack+%7C+Java+%7C+Python;💡+Learning+Every+Day.+Building+The+Future." alt="Typing SVG" />
-
-<br/>
-
-<!-- STATUS BADGES -->
-<a href="https://github.com/Nethrapal-M-Jali">
-  <img src="https://komarev.com/ghpvc/?username=Nethrapal-M-Jali&label=Profile+Views&color=00D9FF&style=for-the-badge&labelColor=0D1117" alt="Profile Views" />
-</a>
-<img src="https://img.shields.io/github/followers/Nethrapal-M-Jali?label=Followers&style=for-the-badge&color=58A6FF&logo=github&logoColor=white&labelColor=0D1117" alt="Followers" />
-<img src="https://img.shields.io/badge/Status-Open%20To%20Work-3DDC97?style=for-the-badge&logo=statuspal&logoColor=white&labelColor=0D1117" alt="Status" />
-<img src="https://img.shields.io/badge/Focus-AI%20%7C%20Full%20Stack-00D9FF?style=for-the-badge&labelColor=0D1117" alt="Focus" />
-
-</div>
-
----
-
-<!-- ██████████████████████ ABOUT ME — TERMINAL STYLE ██████████████████████ -->
-## 🖥️ System Overview
-
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF" />
-
-```bash
-┌──(nethrapal㉿universe)-[~/life]
-└─$ whoami
-
-  Name     : Nethrapal M Jali
-  Role     : Intern @ Stack Education | B.Tech Student
-  Academia : B.Tech (CSE) @ GM University (2024-2028)
-  Focus    : Full Stack Development & Software Engineering
-  Stack    : Java | Python | React | HTML/CSS
-
-┌──(nethrapal㉿universe)-[~/life]
-└─$ cat mission.txt
-
-  → Learning and growing at Stack Education
-  → Coordinating major technical & cultural events @ GMU
-  → Building scalable web applications
-  → Aspiring to make a mark in the tech industry
-
-┌──(nethrapal㉿universe)-[~/life]
-└─$ cat core_values.json
-
-  {
-    "vision"   : "Explore. Learn. Build.",
-    "hobbies"  : ["Technical Coordination", "Social Service", "Learning"],
-    "learning" : ["Advanced Java", "AI Systems", "Cloud Computing"]
-  }
-```
-
----
-
-<!-- ██████████████████████ EXPERIENCE ██████████████████████ -->
-## 💼 Professional Experience
-
-<div align="center">
-
-| PERIOD | ROLE | ORGANIZATION |
-|:---:|:---|:---|
-| `2025 - PRES` | **Intern** | **Stack Education** |
-| `2026 - PRES` | **Event Coordinator** | **GM League (GMU)** |
-| `2025 - 2025` | **Chief Organizer** | **IGNITRON 2K25 (GMU)** |
-
-</div>
-
----
-
-<!-- ██████████████████████ PROJECTS ██████████████████████ -->
-## 🔥 Flagship Deployments
-
-<div align="center">
-
-### 💸 GM FINANCE — GM ONE
-`Next.js` • `TypeScript` • `Node.js` • `PostgreSQL` • `GCP`
-> *A next-gen financial management ecosystem with Gemini-powered spending insights.*
-[![View Repo](https://img.shields.io/badge/ACCESS_REPO-00D9FF?style=for-the-badge&logo=github&logoColor=000)](https://github.com/Rahulrgadgimata)
-
-### 🩺 ORAL CANCER CARE (DR. ARIA)
-`Android` • `Deep Learning (ResNet)` • `AI Voice Avatar`
-> *AI-powered screening with a multilingual voice assistant. Trained on 1000+ images.*
-[![View Repo](https://img.shields.io/badge/ACCESS_APP-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rahulrgadgimata)
-
-</div>
-
----
-
-<!-- ██████████████████████ ACADEMICS ██████████████████████ -->
-## 🎓 Academic Foundation
-
-```bash
-┌──(nethrapal㉿universe)-[~/academia]
-└─$ ls -l
-
-  - Bachelor of Technology in CSE | GM University (2024 - 2028)
-    - Status: ACTIVE
-    - Roles: Event Coordinator | Technical Organizer
-  - Pre-University Education
-```
-
----
-
-<!-- ██████████████████████ CERTIFICATIONS ██████████████████████ -->
-## 🏆 Certifications & Achievements
-
-- 🥇 **4x Hackathon Winner** — Recognized for innovation and rapid prototyping.
-- 🧬 **Neo4j Graph Data Science Certified** — Issued Jan 2026.
-- 🧠 **Advanced Deep Learning & AI Systems** — Udemy (Jan 2026).
-- 🌍 **NSS Coordinator** — Leading social service initiatives and health camps.
-
----
-
-<!-- ██████████████████████ TECH STACK ██████████████████████ -->
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-**⚡ Languages & Web**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-**🤖 AI & Machine Learning**
-![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
-
-**☁️ Cloud & Infrastructure**
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-</div>
-
----
-
-<!-- ██████████████████████ STATS ██████████████████████ -->
-## 📊 System Metrics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nethrapal-M-Jali&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nethrapal-M-Jali&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Langs" />
+<!-- MALWARE ENCRYPTION ANIMATION -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=900&lines=INITIATING+SECURE+CONNECTION...;BYPASSING+FIREWALLS...;ACCESS+GRANTED+TO+NETHRAPAL_OS_v1.0;UPLOADING+GENES+INTO+THE+MATRIX;BUILDING+THE+FUTURE+BIT+BY+BIT." alt="Terminal Typing" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Nethrapal-M-Jali&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF" alt="Streak" />
+<!-- SYSTEM STATUS BADGES -->
+<img src="https://img.shields.io/badge/OS-Kali+Linux-00FF41?style=for-the-badge&logo=kali-linux&logoColor=black&labelColor=003300" />
+<img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00FF41?style=for-the-badge&labelColor=003300" />
+<img src="https://img.shields.io/badge/Clearance-LEVEL+MAX-00FF41?style=for-the-badge&labelColor=003300" />
+<img src="https://img.shields.io/badge/Focus-Full+Stack+Engineering-00FF41?style=for-the-badge&labelColor=003300" />
 
 </div>
 
 ---
 
-<!-- ██████████████████████ TROPHIES ██████████████████████ -->
-## 🏆 Hall of Fame
+<!-- █▓▒░ SYSTEM KERNEL OVERVIEW ░▒▓█ -->
+## 📟 Mainframe Output
+
+<img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHY5bXN0eWpxbXN0YnN0YnN0YnN0YnN0YnN0YnN0YnN0YnN0JnB0PWF2YXRhcl9pbWdfYmFja2dyb3VuZCZpbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmgKeeXqb8Xid97ETu/giphy.gif" alt="Hacker GIF" />
+
+```zsh
+root@nethrapal.io:~$ neofetch
+```
+```yaml
+  USER          : Nethrapal M Jali
+  ROLE          : Cyber Security Enthusiast & Full Stack Dev
+  ACADEMIA      : B.Tech in CSE @ GM University (2024-2028)
+  ENVIRONMENT   : Stack Education (Intern)
+  LOCATION      : Davangere, India [14.4673° N, 75.9214° E]
+  SHELL         : /bin/zsh (Hacker Mode)
+  HARDWARE      : Intel i7 | 16GB RAM | Neural Link Activated
+```
+
+```bash
+root@nethrapal.io:~$ cat objectives.log
+```
+> [!] **CRITICAL MISSION**: Engineering scalable web infrastructures & mastering the art of secure coding at Stack Education.
+> [!] **ACTIVE ENGAGEMENT**: Leading technical operations and event architectures at GMU.
+
+---
+
+<!-- █▓▒░ OPERATION LOGS (EXPERIENCE) ░▒▓█ -->
+## 📁 Deployment Logs
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Nethrapal-M-Jali&theme=tokyonight&no-bg=true&no-frame=true&margin-w=4" alt="Trophies" />
+| TIMESTAMP | OPERATION | CODENAME | STATUS |
+|:---:|:---|:---|:---:|
+| `2025 - PRES` | **Internship** | **Stack Education** | [RUNNING] |
+| `2026 - PRES` | **Coordinating** | **GM League 2K26** | [ACTIVE] |
+| `2025 - 2025` | **Chief Organizing** | **IGNITRON 2K25** | [COMPLETED] |
+| `2024 - PRES` | **B.Tech Scholar** | **GM University** | [UPLOADING] |
 
 </div>
 
 ---
 
-<!-- ██████████████████████ SNAKE ██████████████████████ -->
-## 🐍 Contribution Snake
+<!-- █▓▒░ ARSENAL (TECH STACK) ░▒▓█ -->
+## ⚔️ Hardware Arsenal
+
+<div align="center">
+
+**[ CORE LANGUAGES ]**  
+![Java](https://img.shields.io/badge/Java-00FF41?style=flat-square&logo=openjdk&logoColor=black)
+![Python](https://img.shields.io/badge/Python-00FF41?style=flat-square&logo=python&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00FF41?style=flat-square&logo=c%2B%2B&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-00FF41?style=flat-square&logo=javascript&logoColor=black)
+
+**[ WEB INFRASTRUCTURE ]**  
+![React](https://img.shields.io/badge/React-00FF41?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-00FF41?style=flat-square&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-00FF41?style=flat-square&logo=css3&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-00FF41?style=flat-square&logo=tailwindcss&logoColor=black)
+
+**[ SYSTEM & CLOUD ]**  
+![Linux](https://img.shields.io/badge/Linux-00FF41?style=flat-square&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-00FF41?style=flat-square&logo=github&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-00FF41?style=flat-square&logo=docker&logoColor=black)
+![GCP](https://img.shields.io/badge/GCP-00FF41?style=flat-square&logo=google-cloud&logoColor=black)
+
+</div>
+
+---
+
+<!-- █▓▒░ PERFORMANCE METRICS ░▒▓█ -->
+## 📊 Analytics & Telemetry
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nethrapalmjali&show_icons=true&theme=matrix&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00FF41" alt="Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nethrapalmjali&layout=compact&theme=matrix&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00FF41" alt="Top Langs" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Nethrapalmjali&theme=matrix&hide_border=true&background=000000&ring=00FF41&fire=00FF41" alt="Streak" />
+
+</div>
+
+---
+
+<!-- █▓▒░ CONTRIBUTION MATRIX ░▒▓█ -->
+## 🐍 Neural Grid
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nethrapal-M-Jali/Nethrapal-M-Jali/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nethrapal-M-Jali/Nethrapal-M-Jali/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake" src="https://raw.githubusercontent.com/Nethrapal-M-Jali/Nethrapal-M-Jali/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nethrapalmjali/Nethrapalmjali/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nethrapalmjali/Nethrapalmjali/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake" src="https://raw.githubusercontent.com/Nethrapalmjali/Nethrapalmjali/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
 
 ---
 
-<!-- ██████████████████████ GET IN TOUCH ██████████████████████ -->
-## 📬 Get In Touch
+<!-- █▓▒░ ESTABLISH CONNECTION ░▒▓█ -->
+## 📡 Decrypted Channels
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nethrapal-m-jali17/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nethrapaljali@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/SECRET_CHANNEL-LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/nethrapal-m-jali17/)
+[![Gmail](https://img.shields.io/badge/ENCRYPTED_MAIL-Gmail-00FF41?style=for-the-badge&logo=gmail&logoColor=black)](mailto:nethrapaljali@gmail.com)
+[![GitHub](https://img.shields.io/badge/CORE_REPOSITORY-GitHub-00FF41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Nethrapalmjali)
 
 <br/>
 
-**Location:** India | **Working Hours:** 24/7 Builder Mode 🚀
+**TRANSMISSION COMPLETE.**  
+**LOCATION:** DAVANGERE_INDIA // **TIME:** 24/7_UPTIME ⚙️
 
 </div>
 
 ---
 
-<!-- ██████████████████████ FOOTER ██████████████████████ -->
+<!-- █▓▒░ FOOTER TERMINAL ░▒▓█ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00D9FF&height=120&section=footer&text=BUILD%20THINGS%20THAT%20MATTER&fontSize=40&fontColor=000000&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&section=footer&text=END%20OF%20LINE&fontSize=40&fontColor=00FF41&animation=fadeIn" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=🚀+SCALE+THINGS+THAT+LAST;💻+CRAFTING+GLOBAL+IMPACT;🔥+STAY+HUNGRY.+STAY+FOOLISH." alt="Footer Typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=>>>+STAY+ANONYMOUS;>>>+STAY+INSPIRED;>>>+KEEP+DECODING." alt="Footer Typing" />
 
 <br/>
 
-<sub><b>⚡ Crafted with absolute precision by Nethrapal M Jali ⚡</b></sub>
+<sub><b>⚡ SYSTEM HARDENED BY NETHRAPAL M JALI ⚡</b></sub>
 
 </div>
