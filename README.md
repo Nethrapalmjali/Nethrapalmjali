@@ -1,15 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:0E7490&height=200&section=header&text=Nethrapal%20M%20Jali&fontColor=FFFFFF&fontSize=48&fontAlignY=36&desc=Cybersecurity%20%26%20Applied%20AI%20%E2%80%A2%20Building%20secure%2C%20intelligent%20software&descSize=17&descAlignY=58" alt="Nethrapal M Jali" />
+<img src="assets/banner.svg" width="100%" alt="Nethrapal M Jali: Cybersecurity & Applied AI" />
+
+<br/>
 
 <a href="https://nethrapalmjali.github.io/Nethrapal-s-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/nethrapal-m-jali17/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:nethrapaljali@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://nethrapalmjali.github.io/security-ai-lab/"><img src="https://img.shields.io/badge/Security%20%26%20AI%20Lab-0E7490?style=for-the-badge&logo=githubpages&logoColor=white" alt="Security & AI Lab" /></a>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Cybersecurity+%26+AI+engineering+student+%40+GM+University;Web+application+security+%E2%80%A2+Secure+code+review;Shipping+AI-powered+products+to+real+users" alt="Typing intro" />
 
 </div>
 
@@ -87,8 +85,8 @@ I'm a computer science student at **GM University** working at the intersection 
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Nethrapalmjali&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1" alt="GitHub stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nethrapalmjali&layout=compact&theme=github_dark&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=CBD5E1" alt="Top languages" />
+<img width="49%" src="https://raw.githubusercontent.com/Nethrapalmjali/Nethrapalmjali/output/stats.svg" alt="GitHub stats" />
+<img width="49%" src="https://raw.githubusercontent.com/Nethrapalmjali/Nethrapalmjali/output/top-langs.svg" alt="Top languages" />
 
 <br/><br/>
 
@@ -101,7 +99,5 @@ I'm a computer science student at **GM University** working at the intersection 
 <div align="center">
 
 **Let's build something secure.** Reach me on [LinkedIn](https://www.linkedin.com/in/nethrapal-m-jali17/) or at [nethrapaljali@gmail.com](mailto:nethrapaljali@gmail.com).
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E7490,100:0F172A&height=100&section=footer" alt="" />
 
 </div>
