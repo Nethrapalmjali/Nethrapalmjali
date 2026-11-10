@@ -2,6 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:0E7490&height=200&section=header&text=Nethrapal%20M%20Jali&fontColor=FFFFFF&fontSize=48&fontAlignY=36&desc=Cybersecurity%20%26%20Applied%20AI%20%E2%80%A2%20Building%20secure%2C%20intelligent%20software&descSize=17&descAlignY=58" alt="Nethrapal M Jali" />
 
+<a href="https://nethrapalmjali.github.io/Nethrapal-s-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/nethrapal-m-jali17/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:nethrapaljali@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://nethrapalmjali.github.io/security-ai-lab/"><img src="https://img.shields.io/badge/Security%20%26%20AI%20Lab-0E7490?style=for-the-badge&logo=githubpages&logoColor=white" alt="Security & AI Lab" /></a>
